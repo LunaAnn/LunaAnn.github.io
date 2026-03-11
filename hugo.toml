@@ -2,3 +2,4 @@ baseURL = 'https://LunaAnn.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = "ananke"
+enableGitInfo = true
